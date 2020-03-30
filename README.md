@@ -3,6 +3,8 @@
 Personal front end developer portfolio
 https://chiben-portfolio-flask.herokuapp.com/
 
+![Portfolio](https://i291.photobucket.com/albums/ll312/hiben06/Public/Portfolio.png)
+
 # Tools used
 
 * HTML/CSS
